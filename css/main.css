@@ -99,6 +99,14 @@ li {
   display: inline
 }
 
+/* RESPONSIVE CONTAINERS */
+
+.res-container {
+  position: relative;
+  overflow: hidden;
+  padding: 56.25%;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
